@@ -1,0 +1,15 @@
+{
+  "name": "travian-adrian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe chrome ./test --skip-js-errors"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "testcafe": "^1.18.4"
+  }
+}
